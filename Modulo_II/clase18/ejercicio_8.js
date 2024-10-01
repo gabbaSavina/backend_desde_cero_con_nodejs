@@ -1,0 +1,1 @@
+/* realizar un cuadro con los metodos de array en figma*/

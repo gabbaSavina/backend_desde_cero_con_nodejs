@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2010
+  },
+  {
+    "id": "2",
+    "marca": "Honda",
+    "modelo": "Civic",
+    "anio": 2020
+  },
+  {
+    "id": "3",
+    "marca": "Citroen",
+    "modelo": "C4",
+    "anio": 2023
+  },
+  {
+    "id": "4",
+    "marca": "Renault",
+    "modelo": "Captur",
+    "anio": 2022
+  },
+  {
+    "id": "5",
+    "marca": "Fiat",
+    "modelo": "Fiorino",
+    "anio": 2016
+  },
+  {
+    "id": "6",
+    "marca": "Chevrolet",
+    "modelo": "Celta",
+    "anio": 2011
+  },
+  {
+    "id": "7",
+    "marca": "Ford",
+    "modelo": "Ka",
+    "anio": 2007
+  },
+  {
+    "id": "8",
+    "marca": "Volkswagen",
+    "modelo": "Vento",
+    "anio": 2013
+  },
+  {
+    "id": "9",
+    "marca": "Toyota",
+    "modelo": "Etios",
+    "anio": 2019
+  },
+  {
+    "id": "10",
+    "marca": "Nissan",
+    "modelo": "March",
+    "anio": 2021
+  },
+  {
+    "id": "11",
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "anio": 2022
+  }
+]

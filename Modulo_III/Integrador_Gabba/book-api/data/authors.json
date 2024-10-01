@@ -1,0 +1,52 @@
+[
+  {
+    "id": "101",
+    "name": "George Orwell",
+    "nationality": "Indian"
+  },
+  {
+    "id": "102",
+    "name": "Isabel Allende",
+    "nationality": "Chilena"
+  },
+  {
+    "id": "103",
+    "name": "J.K.Rowling",
+    "nationality": "Britanica"
+  },
+  {
+    "id": "104",
+    "name": "Agatha Christie",
+    "nationality": "Britanica"
+  },
+  {
+    "id": "105",
+    "name": "Aldoux Huxley",
+    "nationality": "Britanica"
+  },
+  {
+    "id": "106",
+    "name": "J. R. R. Tolkien",
+    "nationality": "Britanica"
+  },
+  {
+    "id": "107",
+    "name": "Arthur Conan Doyle",
+    "nationality": "Britanica"
+  },
+  {
+    "id": "108",
+    "name": "Silvia Federici",
+    "nationality": "Italiana"
+  },
+  {
+    "id": "109",
+    "name": "Colleen McCullough",
+    "nationality": "Australiana"
+  },
+  {
+    "id": "110",
+    "name": "Sidney Sheldon",
+    "nationality": "Estadounidense"
+  }
+]

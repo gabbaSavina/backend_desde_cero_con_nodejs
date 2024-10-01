@@ -1,0 +1,10 @@
+{
+    "nombre" : "ana",
+    "edad" : "30",
+    "estudiante" : true,
+    "hobbies" : [ "correr", "dibujar", "viajar" ],
+    "direccion" : {
+        "ciudad" : "Barcelona",
+        "pais" : "Espana"
+    }
+}

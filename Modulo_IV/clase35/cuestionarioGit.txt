@@ -1,0 +1,18 @@
+Cuestionario sobre GIT:
+• Git es...
+    o un software.
+    
+• Un commit tiene...
+      o fecha, autor y mensaje
+
+• Seleccionar el orden correcto para persistir los cambios de
+productos.js.
+    o git add productos.js —> se modifica el archivo —> git commit
+    -m "Carrito agregado"
+   
+• ¿Git permite mantener un historial de cómo fue cambiando el
+proyecto?
+    Git mantiene un historial completo de todos los cambios realizados en un proyecto, permitiéndote
+    ver cómo ha evolucionado con el tiempo. Cada vez que realizas un commit, estás agregando un nuevo
+    punto al historial del proyecto, que contiene información sobre qué cambios se hicieron, quién 
+    los hizo, cuándo se hicieron y en qué archivos.

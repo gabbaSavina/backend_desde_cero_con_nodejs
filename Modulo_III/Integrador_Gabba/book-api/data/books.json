@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "1984",
+    "authorId": "101",
+    "publisherId": "201",
+    "year": 1894,
+    "genre": "Ficcion Distopica"
+  },
+  {
+    "id": "2",
+    "title": "La Casa de los Espiritus",
+    "authorId": "102",
+    "publisherId": "202",
+    "year": 1992,
+    "genre": "Realismo Magico"
+  },
+  {
+    "id": "3",
+    "title": "Harry Potter y la Orden del Fenix",
+    "authorId": "103",
+    "publisherId": "203",
+    "year": 2003,
+    "genre": "Literatura Fantastica"
+  },
+  {
+    "id": "4",
+    "title": "Asesinato en el Orient Express",
+    "authorId": "104",
+    "publisherId": "204",
+    "year": 1934,
+    "genre": "Novela de Misterio"
+  },
+  {
+    "id": "5",
+    "title": "Las Puertas de la Percepcion",
+    "authorId": "105",
+    "publisherId": "205",
+    "year": 1954,
+    "genre": "No Ficcion"
+  },
+  {
+    "id": "6",
+    "title": "Las Dos Torres",
+    "authorId": "106",
+    "publisherId": "206",
+    "year": 1979,
+    "genre": "Literatura Fantastica"
+  },
+  {
+    "id": "7",
+    "title": "El Sabueso de los Basckerville",
+    "authorId": "107",
+    "publisherId": "207",
+    "year": 1902,
+    "genre": "Novela de Misterio"
+  },
+  {
+    "id": "8",
+    "title": "Caliban y la Bruja",
+    "authorId": "108",
+    "publisherId": "208",
+    "year": 2004,
+    "genre": "Ensayo"
+  },
+  {
+    "id": "9",
+    "title": "The Thron Birds",
+    "authorId": "109",
+    "publisherId": "209",
+    "year": 1977,
+    "genre": "Novela Dramatica"
+  },
+  {
+    "id": "10",
+    "title": "Las Arenas del Tiempo",
+    "authorId": "110",
+    "publisherId": "210",
+    "year": 1988,
+    "genre": "Ficcion de Aventuras"
+  }
+]

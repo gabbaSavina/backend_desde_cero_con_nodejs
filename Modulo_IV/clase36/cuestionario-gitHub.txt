@@ -1,0 +1,75 @@
+https://docs.google.com/forms/d/e/1FAIpQLSeV6NeU84egNqPjR5ee1Fv4HW6kbx4LRnE3QYWtZ_oWqj2S_A/viewform
+
+1.    ¿Qué es GitHub y cómo se diferencia de Git?
+
+·      Explica en tus palabras qué es GitHub y cuál es la principal diferencia con Git.
+
+·      ¿Por qué es importante en un entorno colaborativo?
+
+*
+2.    ¿Qué es un repositorio en GitHub?
+
+·      Define qué es un repositorio y para qué se utiliza.
+
+·      ¿Cómo lo utilizarías en un proyecto de equipo en el ámbito laboral?
+
+*
+3.    ¿Qué significa 'forkear' un repositorio y en qué situaciones sería útil en el trabajo?
+
+·      Describe el proceso de crear un fork de un repositorio.
+
+·      ¿En qué tipo de proyectos o equipos se podría usar esta funcionalidad?
+
+*
+4.    ¿Cuál es el propósito de los 'pull requests' en GitHub?
+
+·      Explica qué son los pull requests y cómo se utilizan para colaborar en un proyecto.
+
+¿Por qué son importantes en un entorno de trabajo colaborativo?
+*
+5.    ¿Qué es un 'branch' y por qué es importante en un proyecto en equipo?
+
+·      Describe qué es una rama (branch) en Git y GitHub. ¿Cómo se usa en un proyecto real para gestionar distintas versiones de código?
+
+·      ¿Qué sucede cuando haces un 'merge' y qué tipo de conflictos pueden surgir en el proceso?
+
+*
+6.    Explica qué es un merge y qué puede suceder si dos personas modifican la misma parte del código.
+
+·      ¿Cómo solucionarías un conflicto de merge en un entorno laboral?
+
+·      ¿Cómo usarías las 'issues' de GitHub en un proyecto profesional?
+
+*
+7.    Describe cómo se pueden gestionar tareas, bugs o mejoras en un proyecto utilizando las issues de GitHub.
+
+·      ¿De qué forma esto puede facilitar el trabajo en un equipo?
+
+·      ¿Qué buenas prácticas podrías seguir al escribir un mensaje de commit en un proyecto colaborativo?
+
+*
+8.    Piensa en los mensajes de commit que has realizado.
+
+·      ¿Cuáles son las mejores prácticas que deberías seguir para que tus commits sean claros y útiles para los demás?
+
+·      ¿Por qué es importante establecer un archivo README en un proyecto?
+
+*
+9.    ¿Qué información debería contener un archivo README en un proyecto?
+
+·      ¿Cómo influye en la comunicación dentro de un equipo o con futuros colaboradores?
+
+·      ¿Qué es un 'GitHub Action' y cómo puede automatizar tareas en un proyecto?
+
+*
+10.    Explica qué son las GitHub Actions. ¿Cómo pueden ayudar a automatizar flujos de trabajo como pruebas automáticas o despliegues en un entorno laboral?
+
+·      ¿Qué rol puede tener GitHub en la gestión de un proyecto ágil (como Scrum o Kanban)?
+
+·      ¿Cómo podría GitHub facilitar la gestión de tareas, sprints o tableros en un proyecto ágil? ¿Qué herramientas dentro de GitHub crees que son útiles para estos métodos?
+
+*
+11.   ¿Qué rol puede tener GitHub en la gestión de un proyecto ágil (como Scrum o Kanban)?
+
+·       ¿Cómo podría GitHub facilitar la gestión de tareas, sprints o tableros en un proyecto ágil? 
+·     ¿Qué herramientas dentro de GitHub crees que son útiles para estos métodos?

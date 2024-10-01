@@ -1,0 +1,12 @@
+{
+  "name": "sumserver",
+  "version": "1.0.0",
+  "description": "Servidor TCP con servicio de suma MVC",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Savina Gabba",
+  "license": "ISC"
+}

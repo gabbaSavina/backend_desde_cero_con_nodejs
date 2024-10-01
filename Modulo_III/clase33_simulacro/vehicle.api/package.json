@@ -1,0 +1,14 @@
+{
+  "name": "vehicle.api",
+  "version": "1.0.0",
+  "description": "API para gestionar un sistema de registro de vehiculos utilizando un servidor TCP implementado con Node.js",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+  },
+  "author": "SavinaGabba",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}

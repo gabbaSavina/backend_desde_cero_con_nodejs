@@ -1,0 +1,52 @@
+[
+  {
+    "id": "201",
+    "name": "Austral",
+    "country": "Espania"
+  },
+  {
+    "id": "202",
+    "name": "Sudamericana",
+    "country": "Argentina"
+  },
+  {
+    "id": "203",
+    "name": "Salamandra",
+    "country": "Espania"
+  },
+  {
+    "id": "204",
+    "name": "PlanetaLector",
+    "country": "Argentina"
+  },
+  {
+    "id": "205",
+    "name": "La Redota",
+    "country": "Uruguay"
+  },
+  {
+    "id": "206",
+    "name": "Minotauro",
+    "country": "Argentina"
+  },
+  {
+    "id": "207",
+    "name": "El Ateneo",
+    "country": "Argentina"
+  },
+  {
+    "id": "208",
+    "name": "Tinta Limon",
+    "country": "Argentina"
+  },
+  {
+    "id": "209",
+    "name": "Rare Bird Books",
+    "country": "USA"
+  },
+  {
+    "id": "210",
+    "name": "Emence",
+    "country": "Argentina"
+  }
+]
