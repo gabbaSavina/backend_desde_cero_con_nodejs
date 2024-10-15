@@ -1,0 +1,100 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+
+El sistema de control de versiones Git fue creado por Linus Torvalds, el mismo desarrollador del núcleo de Linux, en 2005. Lo inventó para gestionar
+el desarrollo del kernel de Linux, después de enfrentarse a problemas con otros sistemas de control de versiones.
+
+Contexto y motivo de la creación de Git:
+Antes de Git, el proyecto del kernel de Linux usaba un sistema propietario llamado BitKeeper para gestionar el código. Sin embargo, en 2005 surgieron
+desacuerdos entre la comunidad del kernel de Linux y los propietarios de BitKeeper, lo que llevó a la pérdida de acceso gratuito a esa herramienta.
+Linus Torvalds necesitaba una alternativa que fuera:
+
+- Rápida y eficiente: Con miles de desarrolladores contribuyendo al kernel de Linux, Git tenía que ser lo suficientemente ágil para gestionar grandes
+volúmenes de datos sin sacrificar el rendimiento.
+- Distribuida: A diferencia de los sistemas centralizados, Git permite a cada desarrollador tener una copia completa del historial del proyecto,
+de manera que todos puedan trabajar de manera independiente y sin depender de un servidor central.
+- Segura: Git fue diseñado para garantizar la integridad del código y la historia de cambios. Cada cambio está firmemente relacionado con su autor
+y no puede ser modificado sin que quede rastro.
+- Fácil de fusionar: Dado el número de colaboradores y las diferentes versiones en las que todos podrían estar trabajando, era esencial que Git fuera
+capaz de manejar de manera eficiente las fusiones (merges) de código.
+Gracias a esas necesidades específicas, Git se desarrolló como un sistema distribuido, rápido y robusto, que ha ganado gran popularidad no solo en el
+desarrollo de Linux, sino también en proyectos de todo tipo.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+Actualmente, GitHub es propiedad de Microsoft, que lo adquirió en 2018 por 7.5 mil millones de dólares en acciones. GitHub es una plataforma de alojamiento
+de código basada en Git que permite a los desarrolladores colaborar en proyectos de software, gestionar versiones y realizar seguimiento de cambios en el código.
+
+Microsoft decidió adquirir GitHub por varias razones estratégicas:
+
+- Fortalecer su presencia en la comunidad de desarrolladores: GitHub es una plataforma crucial para los desarrolladores, con millones de usuarios y repositorios.
+Al comprar GitHub, Microsoft se posicionó más cerca de la comunidad de desarrolladores de código abierto, lo que era una parte central de su estrategia de
+transformación hacia el código abierto.
+
+- Consolidar su estrategia de nube: Microsoft ha empujado fuertemente su plataforma en la nube, Azure, y GitHub se alinea bien con su ecosistema, ya que muchos
+proyectos de código abierto y empresariales usan GitHub como base. Esto le da a Microsoft acceso directo a flujos de trabajo y herramientas utilizadas
+por desarrolladores, lo que facilita la integración con sus servicios en la nube.
+
+- Mejorar su reputación con el código abierto: Aunque en el pasado Microsoft era vista como una empresa opuesta al código abierto, especialmente durante los
+años 90 y principios de los 2000, bajo el liderazgo de Satya Nadella (actual CEO), la compañía ha abrazado el código abierto de manera significativa.
+GitHub les proporcionó una plataforma clave para demostrar este compromiso.
+
+- Acceso a una plataforma líder: GitHub ya era el líder indiscutible en plataformas de desarrollo colaborativo y control de versiones. Al adquirir GitHub,
+Microsoft obtuvo una infraestructura potente y una enorme base de usuarios que fortalecía su posición en el mundo del software.
+
+- Desde la adquisición, GitHub ha continuado operando de manera independiente, manteniendo su enfoque en la comunidad de desarrolladores y el código abierto.
+
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+¡Sí! Aunque la terminal es la forma más común de trabajar con Git y GitHub, existen otras alternativas que facilitan el uso de GitHub, especialmente
+para quienes prefieren interfaces gráficas o están comenzando. Aquí te menciono algunas de las más populares:
+
+1. GitHub Desktop
+GitHub Desktop es una aplicación oficial de GitHub con una interfaz gráfica que facilita trabajar con repositorios locales y remotos.
+Funciones principales:
+- Clonar repositorios desde GitHub.
+- Hacer commits y push sin necesidad de usar comandos.
+- Gestionar ramas (branches), realizar fusiones (merge) y resolver conflictos de manera visual.
+Disponible para Windows y macOS.
+Puedes descargarlo aquí: GitHub Desktop.
+
+2. Visual Studio Code (VS Code)
+VS Code es un editor de código que incluye integraciones con Git y GitHub, facilitando el control de versiones desde la misma ventana de edición.
+Funciones principales:
+- Ver cambios en los archivos en tiempo real.
+- Hacer commits, pull y push directamente desde el editor.
+- Extensiones que mejoran la integración con GitHub, como GitLens o la extensión oficial GitHub Pull Requests para gestionar y revisar pull requests.
+Disponible en Windows, macOS y Linux.
+Puedes descargarlo aquí: Visual Studio Code.
+
+3. Sourcetree
+Sourcetree es un cliente Git con interfaz gráfica desarrollado por Atlassian (los creadores de Jira y Bitbucket).
+Funciones principales:
+- Interfaz gráfica intuitiva para trabajar con Git y GitHub.
+- Gestionar branches, commits, stashes, merges, y tags visualmente.
+- Es especialmente útil para quienes trabajan con repositorios grandes y complejos.
+Disponible para Windows y macOS.
+Puedes descargarlo aquí: Sourcetree.
+
+4. GitKraken
+GitKraken es otro cliente Git con una interfaz gráfica muy avanzada que simplifica el trabajo con Git y GitHub.
+Funciones principales:
+- Visualización gráfica del historial de commits y branches.
+- Gestión sencilla de ramas, merges, y pull requests.
+- Integraciones con GitHub, Bitbucket, GitLab, y otros.
+Disponible en Windows, macOS, y Linux.
+Puedes descargarlo aquí: GitKraken.
+
+5. TortoiseGit
+TortoiseGit es un cliente Git para Windows que se integra directamente con el explorador de archivos, lo que te permite gestionar repositorios
+desde el menú contextual (clic derecho) sin usar la terminal.
+Funciones principales:
+- Hacer commits, push, pull, y fusiones desde el explorador de archivos.
+- Ver y comparar cambios visualmente.
+Solo disponible para Windows.
+Puedes descargarlo aquí: TortoiseGit.
+
+6. GitLab o Bitbucket (Alternativas a GitHub)
+Aunque GitHub es la plataforma más popular, existen otras plataformas que también ofrecen integraciones gráficas con Git,
+como GitLab y Bitbucket. Estas también pueden usarse junto a clientes como los mencionados anteriormente.
