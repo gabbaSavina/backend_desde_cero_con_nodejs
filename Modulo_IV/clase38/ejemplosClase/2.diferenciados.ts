@@ -64,6 +64,7 @@ function processData(value: any): void {
         console.log("El valor es de otro tipo: ", value);
     }
 };
+
 //llamamos a la funcion
 processData("Texto");
 processData(123);

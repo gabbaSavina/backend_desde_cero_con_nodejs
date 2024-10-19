@@ -17,5 +17,13 @@ ejemploLet();
 
 //ejemplo de const: valor constante y alcence de bloque
 function ejemploConst() {
-    
-}
+    const variableConst = `Soy una variable const`;
+
+    //variableConst = 'otro valor';//error: assignment to constant variable
+};
+ejemploConst();
+
+// Con @ts-ignore, TypeScript ignorará ese error en particular y te permitirá demostrar 
+// el concepto de hoisting. Este tipo de anotaciones son útiles cuando quieres mostrar 
+// un comportamiento específico de JavaScript en TypeScript, que normalmente lo bloquearía 
+// para proteger el código.
