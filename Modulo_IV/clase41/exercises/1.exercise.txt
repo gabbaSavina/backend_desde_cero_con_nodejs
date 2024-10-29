@@ -1,0 +1,27 @@
+*****Concepto de POO*****
+La Programación Orientada a Objetos (POO) es un paradigma que organiza el código en torno a "objetos",
+los cuales representan entidades con propiedades (atributos) y comportamientos (métodos). Este enfoque permite
+modelar elementos del mundo real dentro del código, facilitando la comprensión y reutilización de los componentes. Los
+objetos se crean a partir de "clases", que actúan como plantillas o planos para definir sus características. Entre los
+pilares de la POO están la herencia, que permite crear clases nuevas basadas en otras; el polimorfismo, que permite usar
+métodos de manera intercambiable entre clases relacionadas; la encapsulación, que controla el acceso a los datos dentro
+de un objeto; y la abstracción, que simplifica la complejidad al mostrar solo los detalles esenciales.
+
+Con la POO, el código se vuelve más modular y mantenible, ya que permite crear estructuras lógicas que imitan comportamientos
+reales o sistemas complejos. Este paradigma facilita la colaboración en proyectos, dado que cada clase puede desarrollarse
+y probarse por separado. En TypeScript y otros lenguajes orientados a objetos, la POO también permite una mejor tipificación
+y seguridad en el manejo de datos, reduciendo errores y mejorando la eficiencia del desarrollo. Gracias a estos beneficios,
+la POO es ampliamente utilizada en el desarrollo de aplicaciones complejas y de gran escala, como videojuegos, sistemas
+de gestión, y plataformas de software empresarial.
+
+
+*****Tres lenguajes que soportan Programación Orientada a Objetos (POO) son:****
+
+Java: Es uno de los lenguajes más conocidos por su fuerte orientación a objetos, con soporte para clases,
+herencia, encapsulación y polimorfismo.
+
+Python: Aunque es flexible y permite programación procedimental y funcional, Python tiene un sólido
+soporte para POO, permitiendo crear y manipular clases y objetos de manera sencilla.
+
+C++: Un lenguaje poderoso que extiende a C con capacidades de POO, ampliamente utilizado
+para desarrollar software de alto rendimiento, videojuegos y sistemas embebidos.
