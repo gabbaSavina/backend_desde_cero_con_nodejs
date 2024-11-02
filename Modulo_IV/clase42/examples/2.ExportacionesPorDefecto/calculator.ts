@@ -10,4 +10,4 @@ export default class Calculator {
     subtract(a: number, b:number): number {
         return a - b;
     }
-}
+};
