@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "express": "^4.21.2",
     "lodash": "^4.17.21",
     "prettyjson": "^1.2.5",
     "prompt-sync": "^4.2.0",
