@@ -48,7 +48,3 @@ En este módulo vas a aprender paso a paso:
 ✅ Entender cómo se maneja el flujo de un programa  
 ✅ Introducción a JSON  
 ✅ Y temas clave como errores, scope y más
-
----
-
-¡Manos a la obra y a practicar! 🧠💻
